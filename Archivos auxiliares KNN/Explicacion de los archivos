@@ -1,0 +1,11 @@
+train_values_short:
+- Para las cateogoricas, los secondary uses y las superestructuras hice mean encoding
+- Los geo id agrupe los que coincidian en los 3 y puse un intervalo de confianza para el promedio
+- Borre las columnas land_surface_condition,position,count_families
+
+train_values_short1
+- Igual a train_values_short pero volvi a poner las columnas borradas (este es el que mejor funciona)
+
+
+train_values_short_superestructures
+- Igual a train_values_short pero con las superestructuras como estaban originalmente
