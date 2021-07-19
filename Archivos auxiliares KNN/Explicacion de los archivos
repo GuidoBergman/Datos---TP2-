@@ -4,8 +4,12 @@ train_values_short:
 - Borre las columnas land_surface_condition,position,count_families
 
 train_values_short1
-- Igual a train_values_short pero volvi a poner las columnas borradas (este es el que mejor funciona)
+- Igual a train_values_short pero volvi a poner las columnas borradas 
 
+train_values_short_sin_outliers
+- Train values_short1 pero saque los que KNN predecia mal (ESTE ES EL QUE MEJOR ME FUNCIONA)
 
 train_values_short_superestructures
 - Igual a train_values_short pero con las superestructuras como estaban originalmente
+
+
