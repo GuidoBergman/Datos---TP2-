@@ -1,0 +1,6 @@
+{"target": 0.7607453911451849, "params": {"n_estimators": 250.0}, "datetime": {"datetime": "2021-07-23 23:26:42", "elapsed": 0.0, "delta": 0.0}}
+{"target": 0.7601160700609804, "params": {"n_estimators": 500.0}, "datetime": {"datetime": "2021-07-24 01:02:46", "elapsed": 5764.127206, "delta": 5764.127206}}
+{"target": 0.7608720155919672, "params": {"n_estimators": 276.82386995995256}, "datetime": {"datetime": "2021-07-24 01:56:59", "elapsed": 9017.383933, "delta": 3253.256727}}
+{"target": 0.7607377102165273, "params": {"n_estimators": 321.0015338931734}, "datetime": {"datetime": "2021-07-24 02:59:19", "elapsed": 12756.800432, "delta": 3739.416499}}
+{"target": 0.760806784903361, "params": {"n_estimators": 384.2459958067269}, "datetime": {"datetime": "2021-07-24 04:13:42", "elapsed": 17219.74017, "delta": 4462.939738}}
+{"target": 0.7609065499536569, "params": {"n_estimators": 272.7109688386929}, "datetime": {"datetime": "2021-07-24 05:07:56", "elapsed": 20474.28765, "delta": 3254.54748}}

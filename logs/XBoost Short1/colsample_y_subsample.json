@@ -1,0 +1,12 @@
+{"target": 0.7603616326628214, "params": {"colsample_bytree": 0.8, "subsample": 0.8}, "datetime": {"datetime": "2021-07-22 22:18:04", "elapsed": 0.0, "delta": 0.0}}
+{"target": 0.7599472035368462, "params": {"colsample_bytree": 1.0, "subsample": 1.0}, "datetime": {"datetime": "2021-07-22 22:53:06", "elapsed": 2101.891416, "delta": 2101.891416}}
+{"target": 0.7600776712455396, "params": {"colsample_bytree": 0.5708151345383703, "subsample": 0.655772180563795}, "datetime": {"datetime": "2021-07-22 23:19:21", "elapsed": 3677.462357, "delta": 1575.570941}}
+{"target": 0.7602081371873175, "params": {"colsample_bytree": 0.7773961457821672, "subsample": 0.5629057093051787}, "datetime": {"datetime": "2021-07-22 23:53:42", "elapsed": 5738.190921, "delta": 2060.728564}}
+{"target": 0.7606264015504329, "params": {"colsample_bytree": 0.7469412902446044, "subsample": 0.9605639199302624}, "datetime": {"datetime": "2021-07-23 00:21:47", "elapsed": 7423.229193, "delta": 1685.038272}}
+{"target": 0.7601620931386464, "params": {"colsample_bytree": 0.6899225170721807, "subsample": 0.5632248257216661}, "datetime": {"datetime": "2021-07-23 00:52:57", "elapsed": 9292.778831, "delta": 1869.549638}}
+{"target": 0.760434541187873, "params": {"colsample_bytree": 0.9993754357285763, "subsample": 0.8854617864361789}, "datetime": {"datetime": "2021-07-23 01:28:18", "elapsed": 11414.597533, "delta": 2121.818702}}
+{"target": 0.7602388388149969, "params": {"colsample_bytree": 0.7417011879574652, "subsample": 0.9717460034548407}, "datetime": {"datetime": "2021-07-23 01:56:21", "elapsed": 13097.140452, "delta": 1682.542919}}
+{"target": 0.7608835054117528, "params": {"colsample_bytree": 0.793979582481109, "subsample": 0.9379215375319068}, "datetime": {"datetime": "2021-07-23 02:27:09", "elapsed": 14945.377929, "delta": 1848.237477}}
+{"target": 0.7602963971151808, "params": {"colsample_bytree": 0.870021465386449, "subsample": 0.9952381867757054}, "datetime": {"datetime": "2021-07-23 02:57:57", "elapsed": 16792.747959, "delta": 1847.37003}}
+{"target": 0.7609755949815245, "params": {"colsample_bytree": 0.7516279046947797, "subsample": 0.9041745677290469}, "datetime": {"datetime": "2021-07-23 03:26:36", "elapsed": 18512.565916, "delta": 1719.817957}}
+{"target": 0.7609794364028688, "params": {"colsample_bytree": 0.7773754946860542, "subsample": 0.9030471581301206}, "datetime": {"datetime": "2021-07-23 03:57:12", "elapsed": 20348.498774, "delta": 1835.932858}}
