@@ -1,0 +1,224 @@
+El maximo es: {'target': 0.7604600000000001,
+ 'params': {'peso_baseline': 4.418722982360061,
+  'peso_lgbm': 1.847955192063759,
+  'peso_short1': 3.6931656858666138}}
+
+Score: 0.7591200000000001
+	 Peso baseline: 5.497607765077223
+	 Peso short1: 3.4495932910616953
+	 Peso lgbm: 1.3982084147631086
+
+Score: 0.7597599999999999
+	 Peso baseline: 4.396125729519248
+	 Peso short1: 3.338221673125071
+	 Peso lgbm: 1.7126368546387505
+
+Score: 0.76
+	 Peso baseline: 4.176679628348021
+	 Peso short1: 4.906786692389873
+	 Peso lgbm: 1.6224317820413567
+
+Score: 0.7598199999999999
+	 Peso baseline: 4.007896532655829
+	 Peso short1: 4.625241923304227
+	 Peso lgbm: 1.414630716062932
+
+Score: 0.7593999999999999
+	 Peso baseline: 5.225052133658776
+	 Peso short1: 3.5837521363412663
+	 Peso lgbm: 1.6661063809181593
+
+Score: 0.75938
+	 Peso baseline: 5.835548245025887
+	 Peso short1: 4.085088736022523
+	 Peso lgbm: 1.6574909400772286
+
+Score: 0.76002
+	 Peso baseline: 4.284340095203054
+	 Peso short1: 4.348267230132691
+	 Peso lgbm: 1.248008912061763
+
+Score: 0.75952
+	 Peso baseline: 4.883666348845992
+	 Peso short1: 4.235533956938634
+	 Peso lgbm: 1.3208167919999525
+
+Score: 0.75964
+	 Peso baseline: 5.026276485108782
+	 Peso short1: 4.202077906809089
+	 Peso lgbm: 1.5804766183177605
+
+Score: 0.75954
+	 Peso baseline: 5.610446393665493
+	 Peso short1: 4.817297761617336
+	 Peso lgbm: 1.425976582872361
+
+Score: 0.7592799999999998
+	 Peso baseline: 4.638472177977091
+	 Peso short1: 3.6014001132724065
+	 Peso lgbm: 0.9085512191250888
+
+Score: 0.7599799999999999
+	 Peso baseline: 4.227968723727099
+	 Peso short1: 3.0937926387784995
+	 Peso lgbm: 1.794417591569212
+
+Score: 0.75948
+	 Peso baseline: 5.252574296622785
+	 Peso short1: 4.638573991340137
+	 Peso lgbm: 1.4571033871030923
+
+Score: 0.7604400000000001
+	 Peso baseline: 4.397895079357625
+	 Peso short1: 3.7033052788641756
+	 Peso lgbm: 1.82822036294928
+
+Score: 0.75926
+	 Peso baseline: 5.5092953830597144
+	 Peso short1: 4.767872959122372
+	 Peso lgbm: 1.1551540482556144
+
+Score: 0.75924
+	 Peso baseline: 4.651023275664498
+	 Peso short1: 3.7850584878931746
+	 Peso lgbm: 0.9980190772629782
+
+Score: 0.76038
+	 Peso baseline: 4.1869207491173
+	 Peso short1: 3.3023040392851275
+	 Peso lgbm: 1.785326789404314
+
+Score: 0.75984
+	 Peso baseline: 4.768228897384399
+	 Peso short1: 4.975250949803744
+	 Peso lgbm: 1.9331128546865615
+
+Score: 0.75958
+	 Peso baseline: 4.912609094189568
+	 Peso short1: 3.502748268414119
+	 Peso lgbm: 1.7913474126112878
+
+Score: 0.75938
+	 Peso baseline: 5.741461278163385
+	 Peso short1: 4.2378907956175595
+	 Peso lgbm: 1.7002627798055463
+
+Score: 0.76004
+	 Peso baseline: 4.000343590193814
+	 Peso short1: 3.6129480212109972
+	 Peso lgbm: 1.9511456225348398
+
+Score: 0.7602
+	 Peso baseline: 4.31754879379136
+	 Peso short1: 3.971718082844455
+	 Peso lgbm: 1.7803013958784568
+
+Score: 0.75986
+	 Peso baseline: 4.180429250049671
+	 Peso short1: 4.457041584486845
+	 Peso lgbm: 1.6695664303402475
+
+Score: 0.76028
+	 Peso baseline: 4.0
+	 Peso short1: 3.388802729527857
+	 Peso lgbm: 1.6219840469927098
+
+Score: 0.7604600000000001
+	 Peso baseline: 4.418722982360061
+	 Peso short1: 3.6931656858666138
+	 Peso lgbm: 1.847955192063759
+
+Score: 0.76034
+	 Peso baseline: 4.655261207321802
+	 Peso short1: 3.8810028226657547
+	 Peso lgbm: 1.9888381212072226
+
+Score: 0.7592799999999998
+	 Peso baseline: 4.712731532210202
+	 Peso short1: 3.5493397886938807
+	 Peso lgbm: 1.31169806523741
+
+Score: 0.75938
+	 Peso baseline: 5.9653192848274434
+	 Peso short1: 3.8911119615911955
+	 Peso lgbm: 1.967493262869358
+
+Score: 0.7602
+	 Peso baseline: 4.015287932388399
+	 Peso short1: 3.170607720900148
+	 Peso lgbm: 1.9280673965955715
+
+Score: 0.76034
+	 Peso baseline: 4.398684055290249
+	 Peso short1: 3.778575889244166
+	 Peso lgbm: 1.9988460724899078
+
+Score: 0.75956
+	 Peso baseline: 4.259077045503919
+	 Peso short1: 5.0
+	 Peso lgbm: 0.8
+
+Score: 0.7588
+	 Peso baseline: 5.946444351064607
+	 Peso short1: 3.1134157315160333
+	 Peso lgbm: 1.700743089618443
+
+Score: 0.75968
+	 Peso baseline: 6.0
+	 Peso short1: 5.0
+	 Peso lgbm: 2.0
+
+Score: 0.76024
+	 Peso baseline: 4.0
+	 Peso short1: 5.0
+	 Peso lgbm: 2.0
+
+Score: 0.75978
+	 Peso baseline: 4.0
+	 Peso short1: 4.1521174670739205
+	 Peso lgbm: 0.8
+
+Score: 0.75938
+	 Peso baseline: 4.0
+	 Peso short1: 3.0
+	 Peso lgbm: 0.8
+
+Score: 0.75972
+	 Peso baseline: 4.252358385920991
+	 Peso short1: 4.508362387104474
+	 Peso lgbm: 1.044908376449047
+
+Score: 0.7601800000000001
+	 Peso baseline: 4.278245918979468
+	 Peso short1: 3.433806639436583
+	 Peso lgbm: 2.0
+
+Score: 0.76
+	 Peso baseline: 4.643403439733003
+	 Peso short1: 4.339715355485513
+	 Peso lgbm: 2.0
+
+Score: 0.75984
+	 Peso baseline: 4.318452425530901
+	 Peso short1: 3.449145166339125
+	 Peso lgbm: 1.4712671531050048
+
+Score: 0.76026
+	 Peso baseline: 4.572880149445286
+	 Peso short1: 3.8593164775561215
+	 Peso lgbm: 1.7758949627531524
+
+Score: 0.76
+	 Peso baseline: 4.009973808100298
+	 Peso short1: 3.913858461565681
+	 Peso lgbm: 1.4017895604428832
+
+Score: 0.76
+	 Peso baseline: 4.3075263248969335
+	 Peso short1: 4.97716787886532
+	 Peso lgbm: 1.999334172934266
+
+Score: 0.76026
+	 Peso baseline: 4.593929148636277
+	 Peso short1: 3.671511367652573
+	 Peso lgbm: 2.0
