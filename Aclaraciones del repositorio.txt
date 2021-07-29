@@ -1,0 +1,3 @@
+Los XGBoost nombrados en el informe como el basado en el feature engieniring usado en el modelo Richter's Predictor - Benchmark y el otro a partir del feature engiering que se habia hecho para el modelo de KNN aqui se llaman, respectivamente, XGBoost baseline y XBoost short1
+
+Los logs obtenidos en las distitnas optimizaciones bayesianas se encuentran en la carpeta logs. No en todos los casos los notebooks de los que se generon los tienen actualmente cargados, por lo que muchas veces los resultados de la optimizacion bayesiana no figuran en los notebooks pero si en los logs.

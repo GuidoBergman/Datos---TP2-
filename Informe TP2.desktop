@@ -1,7 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=Informe TP2
-Comment=
-Icon=application-vnd.openxmlformats-officedocument.wordprocessingml.template
-Exec=firefox --private-window https://docs.google.com/document/d/1uxjsBE4VBKXDnB4hE4q9qEQbvjJhMQkxu3DZ8xZOXSY/edit
